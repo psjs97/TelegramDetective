@@ -13,4 +13,4 @@ Select HTML format and max. size:
 ![](images/2_export_data.png)
 
 # Example
- ![](cve_trends.png)
+ ![](images/results.png)
