@@ -15,4 +15,5 @@ Select HTML format and max. size:
 # Example
 ![](images/3_script_results.png)
  
+HTML page with messages:
 ![](images/4_messages_results.png)
