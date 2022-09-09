@@ -13,4 +13,6 @@ Select HTML format and max. size:
 ![](images/2_export_data.png)
 
 # Example
- ![](images/3_results.png)
+![](images/3_script_results.png)
+ 
+![](images/4_messages_results.png)
