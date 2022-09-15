@@ -113,9 +113,9 @@ def create_html_page_results(msg_match_result_dict, channel_group_title):
         new_tag = soup.new_tag("hr")
         headTag.append(new_tag)
     filename = channel_group_title + '_report.html'
-    with open(os.path.join('results', filename), "wb") as file:
+    with open(os.path.join('.', filename), "wb") as file:
         file.write(soup.encode('utf-8'))
-    print('Report html with matched messages: ' + os.path.join('results', filename))
+    print('Report html with matched messages: ' + os.path.join('.', filename))
 
 
 # Main function
